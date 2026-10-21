@@ -1,0 +1,22 @@
+
+GPS NAVIGATION USING WEIGHTED GRAPH
+Starting City: A
+Destination City: E
+Shortest Route: A -> C -> B -> D -> E
+Total Distance: 10 km
+
+HUFFMAN TEXT COMPRESSION
+Original Text: aaaaabcc
+Character Frequencies:
+a: 5
+b: 1
+c: 2
+Huffman Codes:
+a: 1
+b: 00
+c: 01
+Encoded Text: 11111000101
+Original Size: 64 bits
+Encoded Size: 11 bits
+Decoded Text: aaaaabcc
+Lossless Verification: True
